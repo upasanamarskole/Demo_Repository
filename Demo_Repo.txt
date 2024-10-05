@@ -15,3 +15,6 @@ Git Commands :
 7. git add filename
 
 8. git branch branchname
+
+9. git remote -v
+
