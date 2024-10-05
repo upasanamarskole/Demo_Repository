@@ -12,4 +12,9 @@ Git Commands :
 
 6. git commit -m "message"
 
-7. git remote -v
+7. git add filename
+
+8. git branch branchname
+
+9. git remote -v
+
