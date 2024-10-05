@@ -11,3 +11,7 @@ Git Commands :
 5. git clone url
 
 6. git commit -m "message"
+
+7. git add filename
+
+8. git branch branchname
